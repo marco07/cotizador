@@ -1,0 +1,6 @@
+{
+    "prettier.enable": false,
+    "prettier.embeddedLanguageFormatting": "off",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true
+}
